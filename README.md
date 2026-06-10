@@ -2,7 +2,7 @@
 play with static html file and github pages
 
 # Content
-1. Something
+1. Something [Sub](subtext.md)
 2. something else
 
 # todos
